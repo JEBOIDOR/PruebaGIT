@@ -1,0 +1,2 @@
+DELEGACION DE TAREA (ADD.EVENT..GET)
+https://www.paradigmadigital.com/dev/entendiendo-delegacion-eventos-javascript/

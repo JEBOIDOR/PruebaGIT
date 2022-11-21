@@ -1,0 +1,6 @@
+AGRUPAR CONTENIDO <SPAN> VS <DIV>
+https://blog.mgpanel.org/post/-como-funcionan-las-etiquetas-div-y-span-en-html-#:~:text=En%20resumen%2C%20la%20diferencia%20entre,agrupar%20dentro%20de%20una%20línea.
+CREACION DE TABLAS
+https://www.aprenderaprogramar.com/index.php?option=com_content&view=article&id=516:crear-tablas-html-colspan-y-rowspan-unir-celdas-horizontal-y-vertical-tr-td-th-caption-o-titulo-cu00719b&catid=69&Itemid=192
+ETIQUETAS HTML
+https://platzi.com/tutoriales/1492-html-css/6158-etiquetas-html/?utm_source=google&utm_medium=cpc&utm_campaign=17739691128&utm_adgroup=&utm_content=&gclid=CjwKCAiA9qKbBhAzEiwAS4yeDexQRl-e9nrCm3Sv8d0YYvjRhoYmcuOwSZvBdwRrmauhHlwF1_kA2RoCTNwQAvD_BwE&gclsrc=aw.ds

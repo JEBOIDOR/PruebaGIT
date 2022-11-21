@@ -1,0 +1,6 @@
+CREACION DE SUBCONSULTAS
+https://www.ibm.com/docs/es/qmf/12.1.0?topic=ddfmtuss-creating-subquery-retrieve-data-from-more-than-one-table
+SENTENCIS INSERT INTO
+https://spa.myservername.com/mysql-insert-into-table-insert-statement-syntax-examples
+CREACION TABLAS GUI
+https://norvicsoftware.com/crear-tablas-en-mysql/#:~:text=Para%20crear%20una%20tabla%20en,el%20botón%20“Create%20table”.
